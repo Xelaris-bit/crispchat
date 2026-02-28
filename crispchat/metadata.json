@@ -1,0 +1,5 @@
+{
+  "name": "Crispchat",
+  "description": "A private WhatsApp-like real-time chat web application for internal communication.",
+  "requestFramePermissions": []
+}
