@@ -1,6 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://www.flaticon.com/free-icon/letter-c_8142731" />
-</div>
 ## Run Locally
 
 **Prerequisites:**  Node.js
