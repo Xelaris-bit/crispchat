@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
-    "build": "vite build",
+    "build": "vite build && tsc",
     "preview": "vite preview",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
-    "start": "tsc server.ts"
+    "start": "node dist/server.ts"
   },
   "dependencies": {
     "@google/genai": "^1.29.0",
